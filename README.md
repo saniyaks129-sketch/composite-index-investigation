@@ -103,3 +103,4 @@ The database **does not use the index efficiently**.
 ---
 
 Happy debugging and index optimizing!
+\n## Composite Index Investigation\nCompleted Left-Most Prefix Rule analysis.
